@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156805408437",
+    "project_id": "qualifiers-77bb5",
+    "storage_bucket": "qualifiers-77bb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156805408437:android:bca95764660c20b25d00fc",
+        "android_client_info": {
+          "package_name": "com.example.qualifiers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrrfKhj0c2j3MGzAxK2llvDJjjxFzsA84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
